@@ -14,9 +14,12 @@
 1. Acesse o portal de firmwares Instant On 1930:  
 https://community.instant-on.hpe.com/blogs/jamie-easly1/2020/06/03/instant-on-1930-switching-software-portal?
 
-2. Na tabela **Software**, clique em **Download** na versão desejada (ex.: **3.1.0**).  
-	![[Pasted image 20250519084046.png]]
-3. Salve o arquivo `.zip` no seu computador
+2. Na tabela **Software**, clique em **Download** na versão desejada (ex.: **3.1.0**).
+<div align="center">
+<img src="Pasted image 20250519084046.png" width="470" height="600">
+</div>
+
+4. Salve o arquivo `.zip` no seu computador
 
 ---
 
