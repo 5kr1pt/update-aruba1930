@@ -1,5 +1,9 @@
 # Atualização de Firmware do Aruba Instant On 1930 Switch
 
+<div align="center">
+<img src="54296935-6b2a-45a2-919f-db4baced83ae.png" width="1916" height="353">
+</div>
+
 ## Pré-requisitos
 
 - **Firmware**: arquivo `.zip` baixado no portal de firmwares Instant On 1930 ([Instant On 1930 - Switching Software Portal](https://community.instant-on.hpe.com/blogs/jamie-easly1/2020/06/03/instant-on-1930-switching-software-portal?)).
@@ -44,7 +48,7 @@ Senha: Em branco
 Ao acessar ele pedirá para configurar um novo usuário e senha:
 
 <div align="center">
-<img src="Pastedimage20250519084534.png" width="550" height="600">
+<img src="Pastedimage20250519084534.png" width="803" height="633">
 </div>
 
 4. Atualização de Firmware
@@ -56,23 +60,23 @@ Maintenance → Backup and Update Files → Update
 Aruba Instant On Community
 
 <div align="center">
-<img src="Pastedimage20250519084652.png" width="550" height="600">
+<img src="Pastedimage20250519084652.png" width="750" height="750">
 </div>
 
 <div align="center">
-<img src="Pastedimage20250519084712.png" width="550" height="600">
+<img src="Pastedimage20250519084712.png" width="750" height="600">
 </div>
 
 Clique em Choose File, selecione o ``.swi`` extraído e depois em Upload.
 
 <div align="center">
-<img src="Pastedimage20250519085013.png" width="550" height="600">
+<img src="Pastedimage20250519085013.png" width="750" height="600">
 </div>
 
 Após o upload, clique em ``Start File Transfer`` para iniciar a atualização.
 
 <div align="center">
-<img src="Pastedimage20250519093913.png" width="550" height="600">
+<img src="Pastedimage20250519093913.png" width="827" height="359">
 </div>
 
 O switch reiniciará automaticamente. Aguarde a conclusão.
