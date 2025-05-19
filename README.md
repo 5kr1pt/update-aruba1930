@@ -16,7 +16,7 @@ https://community.instant-on.hpe.com/blogs/jamie-easly1/2020/06/03/instant-on-19
 
 2. Na tabela **Software**, clique em **Download** na versão desejada (ex.: **3.1.0**).
 <div align="center">
-<img src="Pasted image 20250519084046.png" width="470" height="600">
+<img src="Pastedimage20250519084046.png" width="550" height="600">
 </div>
 
 4. Salve o arquivo `.zip` no seu computador
@@ -42,7 +42,10 @@ Login: admin
 Senha: Em branco
 
 Ao acessar ele pedirá para configurar um novo usuário e senha:
-![[Pasted image 20250519084534.png]]
+
+<div align="center">
+<img src="Pastedimage20250519084534.png" width="550" height="600">
+</div>
 
 4. Atualização de Firmware
 
@@ -51,16 +54,26 @@ Ao acessar ele pedirá para configurar um novo usuário e senha:
 No menu lateral, vá em:
 Maintenance → Backup and Update Files → Update 
 Aruba Instant On Community
-![[Pasted image 20250519084652.png]]
 
-![[Pasted image 20250519084712.png]]
+<div align="center">
+<img src="Pastedimage20250519084652.png" width="550" height="600">
+</div>
+
+<div align="center">
+<img src="Pastedimage20250519084712.png" width="550" height="600">
+</div>
 
 Clique em Choose File, selecione o ``.swi`` extraído e depois em Upload.
 
-![[Pasted image 20250519085013.png]]
+<div align="center">
+<img src="Pastedimage20250519085013.png" width="550" height="600">
+</div>
 
 Após o upload, clique em ``Start File Transfer`` para iniciar a atualização.
-![[Pasted image 20250519093913.png]]
+
+<div align="center">
+<img src="Pastedimage20250519093913.png" width="550" height="600">
+</div>
 
 O switch reiniciará automaticamente. Aguarde a conclusão.
 
